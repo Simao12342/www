@@ -24,7 +24,6 @@ header {
 
 .header_name {
     font-size: 5vw;
-
 }
 
 *, ::before, ::after {
@@ -34,8 +33,9 @@ header {
 button {
     position: absolute;
     left: 0;
+
     height: 100%;
-    width: 250px;
+    width: 15vw;
     border: 2px solid #fdb347;
     
 }
@@ -70,7 +70,7 @@ button a {
 }
 .main_text {
     text-align: center;
-    font-size: 50px;
+    font-size: 4vw;
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -79,7 +79,7 @@ button a {
     justify-content: space-between;
     padding-left: 30%;
     padding-right: 30%;
-    font-size: 20px;
+    font-size: 1.5vw;
 
 }
 .left_text {
